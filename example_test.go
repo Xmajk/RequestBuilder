@@ -1,4 +1,4 @@
-package request_builder_test
+package requestBuilder_test
 
 import (
 	"fmt"

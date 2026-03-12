@@ -1,4 +1,4 @@
-package request_builder
+package requestBuilder
 
 // HTTP method constants for use with [RequestBuilder].
 const (

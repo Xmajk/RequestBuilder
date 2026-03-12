@@ -1,4 +1,4 @@
-package request_builder
+package requestBuilder
 
 import (
 	"encoding/json"

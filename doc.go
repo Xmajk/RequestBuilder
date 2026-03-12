@@ -37,4 +37,4 @@
 //	    log.Fatal(err)
 //	}
 //	fmt.Println(u.Name)
-package request_builder
+package requestBuilder
